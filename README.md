@@ -10,6 +10,7 @@ ARM Cortex M4F + WiFi+BLE + MPPT Solar Battery Powered module, mBed and Arduino 
 - PLenty of UART/I2C
 - Lithium Ion Battery Power
 - MPPT Solar battery charging
+- USB bus power for desktop development
 - Over the Air Programming
 - Low power
 - 2 Year Battery Life w/Single Cell Lithium Battery
