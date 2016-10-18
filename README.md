@@ -17,7 +17,7 @@ KiCAD PCB 3D Render
 Top
 ![Vento 0.1a KiCAD 3D Top](/img/Vento0.1a3DTOP.png)
 Bottom
-![Vento 0.1a KiCAD PCB](/IMG/Vento0.1a3DBOTTOM.png)
+![Vento 0.1a KiCAD PCB](/img/Vento0.1a3DBOTTOM.png)
 
 Vento 0.1a ESP3212 KiCAD PCB
 ![Vento 0.1a ESP3212 KiCAD PCB](/img/VentoESP3212.png)
