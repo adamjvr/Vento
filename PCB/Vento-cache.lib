@@ -864,6 +864,50 @@ X ~ 2 300 0 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# CUS-12TB
+#
+DEF CUS-12TB SW 0 40 Y Y 1 F N
+F0 "SW" 225 125 60 H V C CNN
+F1 "CUS-12TB" 400 -175 60 H V C CNN
+F2 "PCB_Footprints:CUS-12TB" -750 975 60 H I C CNN
+F3 "http://www.nidec-copal-electronics.com/e/catalog/switch/cus.pdf" -650 1075 60 H I C CNN
+F4 "0.45329 @ 1000" -550 1175 60 H I C CNN "Cost"
+F5 "24 Oct 2016" -450 1275 60 H I C CNN "Date Created"
+F6 "24 Oct 2016" -350 1375 60 H I C CNN "Date Modifed"
+F7 "Adam Vadala-Roth" -250 1475 60 H I C CNN "Designer"
+F8 "2mm" -150 1575 60 H I C CNN "Height"
+F9 "Yes" -50 1675 60 H I C CNN "RHoS?"
+F10 "Copal Electronics Inc." 50 1775 60 H I C CNN "MFR"
+F11 "CUS-12TB" 150 1875 60 H I C CNN "MFR#"
+F12 "SMT/SMD" 250 1975 60 H I C CNN "Mounting"
+F13 "3" 350 2075 60 H I C CNN "Pin Count#"
+F14 "Active" 450 2175 60 H I C CNN "Status"
+F15 "N/A" 550 2275 60 H I C CNN "Tolerance"
+F16 "SMT Slider switch SPDT" 650 2375 60 H I C CNN "Type"
+F17 "50V 100mA" 750 2475 60 H I C CNN "Voltage"
+F18 "N/A" 1300 2475 60 H I C CNN "Wattage"
+F19 "N/A" -300 875 60 H I C CNN "Componen-Value"
+F20 "Slide Switch SPDT Surface Mount, Right Angle" 1500 2675 60 H I C CNN "Description"
+DRAW
+S 300 -125 -200 75 0 1 0 N
+P 2 0 1 0 -125 25 -75 25 N
+P 2 0 1 0 -100 75 -100 25 N
+P 2 0 1 0 -25 -125 -25 -50 N
+P 2 0 1 0 75 25 250 25 N
+P 2 0 1 0 100 -50 100 -125 N
+P 2 0 1 0 100 75 100 25 N
+P 2 0 1 0 175 0 175 0 N
+P 2 0 1 0 250 25 250 25 N
+P 4 0 1 0 -25 -125 -25 -250 100 -250 100 -125 N
+P 4 0 1 0 0 75 0 25 -25 25 25 25 N
+P 6 0 1 0 -100 0 -75 0 -25 -50 100 -50 150 0 175 0 N
+X ~ 1 -100 275 200 D 50 50 1 1 I
+X ~ 2 0 275 200 D 50 50 1 1 I
+X ~ 3 100 275 200 D 50 50 1 1 I
+X ~ 4 -400 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # DMG2307L-7
 #
 DEF DMG2307L-7 Q 0 40 Y Y 1 F N

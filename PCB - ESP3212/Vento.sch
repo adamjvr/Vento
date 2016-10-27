@@ -81,8 +81,8 @@ F6 "ESPTOST_BOOT0" I R 5700 4850 60
 F7 "ESPTOST_BOOT1" I R 5700 4925 60 
 F8 "ESP_ST_RST" I R 5700 4425 60 
 $EndSheet
-Text Notes 5275 1250 0    200  ~ 40
-Vento 0.1a
+Text Notes 4475 1275 0    200  ~ 40
+Vento ESP3212 0.1a
 Wire Wire Line
 	5425 1975 7000 1975
 Wire Wire Line
